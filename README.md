@@ -13,14 +13,20 @@ system for lottery sever,include normal user, admin and nottory mod
 
 ######################################################################### 
 
-# be sure to use linux ubuntu16.04 to execute this program
+# be sure to use linux ubuntu to execute this program
 
 
 #Usage:
 
-#1. execute program under bin/ with address and port
+# 1. execute program under bin/ with address and port
+
+# 2. the login name and password of admin is "admin" and "1"
+
+# 3. the login name and password of nottery is "nottery" and "1"
+
+# 4. the user name you can register one for youself
  
-#for example "bin/lottery 127.0.0.1 8888" 
+# 5. for example "bin/lottery 127.0.0.1 8888" 
  
-#the *.bin file is essential when the first time execute this program
+# 6. the *.bin file is essential when the first time execute this program
 
