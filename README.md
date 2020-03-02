@@ -13,6 +13,9 @@ system for lottery sever,include normal user, admin and nottory mod
 
 ######################################################################### 
 
+# be sure to use linux ubuntu16.04 to execute this program
+
+
 #Usage:
 
 #1. execute program under bin/ with address and port
